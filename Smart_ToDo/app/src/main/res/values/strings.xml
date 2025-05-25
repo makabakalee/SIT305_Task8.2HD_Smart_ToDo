@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Smart ToDo</string>
+    
+    <!-- Button Labels -->
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    
+    <!-- Dialog Titles -->
+    <string name="title_edit_task">Edit Task</string>
+    <string name="title_delete_task">Delete Task</string>
+    
+    <!-- Dialog Messages -->
+    <string name="message_delete_confirmation">Are you sure you want to delete the task: %1$s?</string>
+    
+    <!-- Navigation Titles -->
+    <string name="nav_all_tasks">All Tasks</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_important">Important</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_edit_task">Edit task</string>
+    <string name="menu_delete_task">Delete task</string>
+    
+    <!-- Input Hints -->
+    <string name="hint_task_name">Task name</string>
+    <string name="hint_task_description">Description (optional)</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_time">Time (e.g., Today, Tomorrow, Morning)</string>
+    <string name="hint_add_task">Add a task or ask a question…</string>
+    
+    <!-- Smart Features -->
+    <string name="feature_natural_input">Natural task input: Type or speak naturally</string>
+    <string name="feature_smart_sorting">Smart sorting: Auto-categorizes tasks</string>
+    <string name="feature_suggestions">Suggestions: Get task recommendations</string>
+    <string name="feature_questions">Ask questions: "What are my tasks today?"</string>
+    
+    <!-- Toast Messages -->
+    <string name="toast_task_updated">Task updated</string>
+    <string name="toast_task_deleted">Task deleted</string>
+    <string name="toast_task_important">Task marked as important</string>
+    <string name="toast_task_not_important">Task importance removed</string>
+</resources>

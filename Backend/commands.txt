@@ -1,0 +1,10 @@
+pip install Flask
+pip install transformers
+pip install accelerate
+
+For Pytorch:
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+(Source: https://pytorch.org/get-started/locally/)
+
+pip install accelerate
